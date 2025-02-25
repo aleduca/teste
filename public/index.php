@@ -1,3 +1,5 @@
 <?php
 
-echo 'index';
+$name = 'Alexandre';
+
+echo 'Olá ' . $name . '!';
